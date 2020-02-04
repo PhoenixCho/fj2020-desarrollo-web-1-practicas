@@ -1,1 +1,11 @@
-.negrita {fond-weight;bold,}
+.negrita {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+main#principal {
+    width: 600px;
+    background-color: green;
+    margin: 0 auto; /*centra el bloque*/
+    
+}

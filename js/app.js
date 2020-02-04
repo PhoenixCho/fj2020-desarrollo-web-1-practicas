@@ -1,1 +1,1 @@
-alert(hola mundo de git);
+alert("hola git desde javascript");
